@@ -75,7 +75,8 @@
    {
      // ...
 
-     "outDir": "build"
+     "outDir": "build",
+     "rootDir": "src"
    }
    ```
 
